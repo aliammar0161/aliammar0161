@@ -24,7 +24,7 @@
 
 ## 🗂️ Featured Projects
 
-- [**ML for COVID-19 Drug Discovery**](https://github.com/your-github-username/project-covid19-ml) – ML models to identify SARS-CoV-2 inhibitors.
+- [**ML for COVID-19 Drug Discovery**](https://github.com/aliammar0161/Mpro-inhibitor-discovery) – ML models to identify SARS-CoV-2 inhibitors.
 
 ---
 
