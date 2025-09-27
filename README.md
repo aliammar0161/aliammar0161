@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Ammar!
 
-🎓 I'm a **Chemical Engineering student** at the **University of Manchester**, with a deep interest in using **Machine Learning** to solve scientific and engineering problems.
+🎓 I'm a **PhD student** at **Imperial College London**, with a deep interest in using **Machine Learning** to solve scientific and engineering problems.
 
 ---
 
