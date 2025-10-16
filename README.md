@@ -14,14 +14,6 @@
 
 ---
 
-## 🛠️ Skills & Tools
-
-- **Languages**: Python, MATLAB, C++
-- **Libraries**: PyTorch, Scikit-learn, RDKit
-- **Other**: Aspen Plus, gPROMS
-
----
-
 ## 🗂️ Featured Projects
 
 - [**ML for COVID-19 Drug Discovery**](https://github.com/aliammar0161/Mpro-inhibitor-discovery) – ML models to identify SARS-CoV-2 inhibitors.
